@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: All the information you would need to know
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Lydia Newhouse. I am currently studying Electrical Engineering at Virginia Tech. Go Hokies!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My special interests include:
 
-What else do you need?
+- Controls, Robotics, Autonomy (My actual major)
+- Coding in C and C++ (Especially if it involves fun games)
+- Power Systems
 
-### My story
+### Experience
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- 
