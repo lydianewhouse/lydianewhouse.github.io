@@ -14,15 +14,15 @@ My special interests include:
 
 ### Experiences
 
-**American Electric Power** - Protection and Control Engineering
+**American Electric Power** - Protection and Control Engineering  
 May 2024 - Jan 2025
 
 
 
-**American Electric Power** - Distribution System Analysis
+**American Electric Power** - Distribution System Analysis  
 May 2023 - Aug 2023
 
 
 
-**Georgia Pacific** - Process Control Engineering
+**Georgia Pacific** - Process Control Engineering  
 Upcoming: Summer 2025
