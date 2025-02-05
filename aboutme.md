@@ -12,17 +12,17 @@ My special interests include:
 - Coding in C and C++ (Especially if it involves fun games)
 - Power Systems
 
-### Experience
+### Experiences
 
 **American Electric Power** - Protection and Control Engineering
-##### May 2024 - Jan 2025
+May 2024 - Jan 2025
 
 
 
 **American Electric Power** - Distribution System Analysis
-##### May 2023 - Aug 2023
+May 2023 - Aug 2023
 
 
 
 **Georgia Pacific** - Process Control Engineering
-##### Upcoming: Summer 2025
+Upcoming: Summer 2025
