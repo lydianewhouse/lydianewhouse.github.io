@@ -14,5 +14,5 @@ My special interests include:
 
 ### Experience
 
-- American Electric Power - Protection and Control Engineering
-- American Electric Power = Distribution System Analysis
+- **American Electric Power** - Protection and Control Engineering
+- **American Electric Power** - Distribution System Analysis
